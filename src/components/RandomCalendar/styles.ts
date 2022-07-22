@@ -40,5 +40,5 @@ export const Container = styled.div`
         align-self: flex-start;
     }
 
-    //1:31:40 DO VIDEO !!!!!!
+    
 `;
