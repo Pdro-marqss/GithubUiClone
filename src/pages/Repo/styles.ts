@@ -97,4 +97,5 @@ export const LinkButton = styled.a`
     }
 `;
 
-export const GithubIcon = styled(FaGithub)`${iconCSS}`; 
+export const GithubIcon = styled(FaGithub)`${iconCSS}`;
+
