@@ -22,5 +22,3 @@ export interface APIRepo {
     language?: string;
     description?: string;
 }
-
-//2:20:50 DO VIDEO !!!!
