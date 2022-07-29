@@ -16,8 +16,8 @@ Esse projeto tem como principal objetivo o estudo do TypeScript junto a algumas 
 
 ### mobile
 <p align="center">
-    <img alt="Print layout mobile no lightMode" src="./src/assets/mobile-light.png" width="200px"/>
-    <img alt="Print layout mobile no DarkMode" src="./src/assets/mobile.png" width="200px"/>
+    <img alt="Print layout mobile no lightMode" src="./src/assets/mobile-light.png" width="300px"/>
+    <img alt="Print layout mobile no DarkMode" src="./src/assets/mobile.png" width="300px"/>
 </p>
 
 ---
